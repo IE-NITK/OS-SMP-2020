@@ -1,0 +1,26 @@
+//Submitted by Gaurav
+
+
+1) List all the Scheduling Algorithms you have learnt and classify them into preemptive and non-preemptive.
+
+
+>> Non preemptive                                             Preemptive
+   First come first serve                                    Shortest remaining time
+   Shortest Job first                                        Round Robin Scheduling
+
+MCQ Questions
+
+                Q1	C) FCFS: P1, P2, P3
+                        RR2: P1, P3, P2
+                Q2 	A) 13 units 
+                Q3	A) First in first out
+                Q4	D) I, II and III        
+                Q5	B) 15
+                Q6	C) Shortest Remaining Time
+                Q7	B) c, d and e 
+                Q8	A) Minimum CPU utilization
+                Q9	C) Processes are permanently assigned to a queue
+                Q10	C) Non preemptive SJF 
+                Q11	B) SRTF 
+                        C) SJF
+
